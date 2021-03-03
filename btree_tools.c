@@ -1,7 +1,6 @@
-/*
-	B-Tree - Antonio Carlos Falcão Petri e Thiago Yonamine
-	DC - UFSCar - São Carlos - 2015
- */
+#include <stdio.h>
+#include <stdlib.h>
+
 #include "btree_tools.h"
 
 void _btree_dfs_node(node_t *node, int level) {

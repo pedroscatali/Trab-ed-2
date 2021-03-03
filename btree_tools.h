@@ -1,11 +1,9 @@
-/*
-    B-Tree - Antonio Carlos Falcão Petri e Thiago Yonamine
-    DC - UFSCar - São Carlos - 2015
- */
+#include <stdio.h>
+#include <stdlib.h>
+
 #ifndef B_TREE_TOOLS_H
 #define B_TREE_TOOLS_H
 
-#include <stdio.h>
 
 #include "btree.h"
 
