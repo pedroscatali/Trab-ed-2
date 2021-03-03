@@ -13,8 +13,7 @@ void ler_arq(char *arq){
 
     }
     else{
-        fseek(arq, );
-        ftell(  );
+        
     }
 
 
