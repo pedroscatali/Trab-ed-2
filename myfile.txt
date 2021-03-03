@@ -1,2 +1,3 @@
-0000000012345 Catali,P.S. Comunismo é Maneiro 2021
-1234567890123 Vilela,L. Maneiro é Comunismo 2020
+0000000012345 Catali,P.S. "Comunismo é Maneiro" 2021
+1234567890123 Vilela,L. "Maneiro é Comunismo" 2020  
+1234567890123 Prestes,L.C "Comunismo" 1967          
